@@ -1,2 +1,2 @@
 # Sistemas-Inteligentes-Aprendizado-de-Maquina
-Análise de sinais vitais com modelagens de aprendizado de máquina (Aprendizagem Simbólica e Redes Neurais))
+Repositório para armazenamento e colaboração no desenvolvimento de atividade da matéria Sistemas Inteligentes pela UTFPR para Engenharia da Computação. A atividade em questão envolve desenvovler algoritmos para análise de sinais vitais utilizando técnicas de Aprendizado de Máquina (Machine Learning), bem como a proução de uma análise crítica dos resultados
